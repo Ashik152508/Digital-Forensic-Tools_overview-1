@@ -14,7 +14,8 @@
 <br>
 
 
- <img width="1575" height="763" alt="image" src="https://ibb.co/5hP8JFkf />
+![1000164287](https://github.com/user-attachments/assets/80ae0ff8-d0d9-4557-92e4-ba85c6fa431f)
+
 <br>
 <br>
 
@@ -23,7 +24,7 @@
   <br>
 <br>
 
-   <img width="1919" height="1096" alt="image" src="https://github.com/user-attachments/assets/8b6eead1-d327-43b7-be00-1b081822ebe5" />
+  <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/1a77b4ce-77c0-4c76-b67e-8e11d45d44b2" />
 <br>
 <br>
 
@@ -49,9 +50,9 @@ A dialog box will appear where you configure where and how the memory will be sa
 <br>
 <br>
 
- <img width="1918" height="1098" alt="image" src="https://github.com/user-attachments/assets/37f79f46-b802-4028-a10e-659874ebc6e2" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/fbae21ed-4a4e-4cbf-9b43-d5c57e1bd761" />
 
- 
+
 <br>
 <br>
 
@@ -60,8 +61,8 @@ A dialog box will appear where you configure where and how the memory will be sa
 <br>
 <br>
 
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/2e208884-fc94-4f08-94db-80796aea2ab0" />
 
-<img width="1914" height="868" alt="image" src="https://github.com/user-attachments/assets/1194796f-767d-4e59-8e3a-5962823bdda1" />
 <br>
 <br>
 
@@ -81,9 +82,8 @@ A dialog box will appear where you configure where and how the memory will be sa
 
 <br>
 <br>
-<img width="1918" height="1066" alt="image" src="https://github.com/user-attachments/assets/479850a5-c2fb-4695-b830-2ab9dc3cc63d" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/dfdd9e32-dcbc-444c-8ac8-0256b3901e3e" />
 
-<br>
 <br>
 
 ### 2. Select Source Evidence Type
@@ -99,7 +99,8 @@ A window will appear asking you to choose the source type:
 <br>
 <p align="center">
 
-<img width="591" height="433" alt="image" src="https://github.com/user-attachments/assets/057d577e-5327-44e8-93b5-da3b5fca1fed" />
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/4d4254f7-4305-4be3-ac85-fdbe9e37a00f" />
+
 </p>
 <br>
 <br>
@@ -110,7 +111,7 @@ A window will appear asking you to choose the source type:
  <br>
 <br>
 <p align="center">
-<img width="583" height="428" alt="image" src="https://github.com/user-attachments/assets/7174ba85-f638-4ca5-b299-65dc9841d3ea" />
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/daa3080b-bfed-470b-a34d-cb1e28794afb" />
 </p>
 <br>
 <br>
@@ -120,7 +121,8 @@ A window will appear asking you to choose the source type:
   <br>
 <br>
 <p align="center">
-<img width="508" height="490" alt="image" src="https://github.com/user-attachments/assets/6b826126-f3d0-4964-8578-4022e3ab6a08" /></p>
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/2515ab32-8ecd-4200-8b31-b0840cde46f8" />
+
 <br>
 
 #### Options:
@@ -131,7 +133,8 @@ A window will appear asking you to choose the source type:
 <br>
 <br>
 <p align="center">
-<img width="505" height="405" alt="image" src="https://github.com/user-attachments/assets/e5d806b5-edda-4f57-a60b-e4c58b8fd343" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/2a4b8ef6-8e50-4571-b794-8c59f1d5b3a3" />
+
 </p>
 <br>
 <br>
@@ -140,7 +143,8 @@ A window will appear asking you to choose the source type:
   - Enter case details, examiner name, and description.  
   - This information is stored in the image metadata (important for documentation).
  <p align="center">
-<img width="511" height="407" alt="image" src="https://github.com/user-attachments/assets/93d6b429-5dae-4973-82d2-024545b537d5" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/c034d06e-3d7a-4460-b5f1-e3a2cf1a25f6" />
+
 </p>
 <br>
 <br>
@@ -156,7 +160,8 @@ A window will appear asking you to choose the source type:
   <br>
   
 <p align="center">
-<img width="511" height="402" alt="image" src="https://github.com/user-attachments/assets/bba79e8f-512d-4097-b23c-e230cbe166a3" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/0c2ca1d6-29ad-424b-b13c-abe05e7dee07" />
+
 </p>
 <br>
 <br>
@@ -191,6 +196,7 @@ A window will appear asking you to choose the source type:
 
 - [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
 - FTK Imager Documentation
+
 
 
 
