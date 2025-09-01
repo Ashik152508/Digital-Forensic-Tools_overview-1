@@ -183,15 +183,14 @@ A window will appear asking you to choose the source type:
 
 ---
 ## Notes
-
-- Always use a **write-blocker** to prevent modifications to the evidence.  
 - **Hash verification** is critical to maintain a chain of custody and admissibility in court.  
-- **Image Fragmentation** is useful for large drives or storage limitations.
+- Always use a **write-blocker** to prevent modifications to the evidence.
 ---
 
 ## References
 
 - [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
 - FTK Imager Documentation
+
 
 
